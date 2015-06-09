@@ -12,9 +12,9 @@ import java.lang.reflect.Field;
 /**
  * Created by hailonghan on 15/6/9.
  */
-public abstract class BaseSwipeActivity extends AppCompatActivity implements SlidingPaneLayout.PanelSlideListener {
+public abstract class BaseSwipeBackActivity extends AppCompatActivity implements SlidingPaneLayout.PanelSlideListener {
 
-    public final static String TAG = BaseSwipeActivity.class.getCanonicalName();
+    public final static String TAG = BaseSwipeBackActivity.class.getCanonicalName();
 
     SlidingPaneLayout mSlidingPaneLayout;
 
