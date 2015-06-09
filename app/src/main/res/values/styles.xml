@@ -22,17 +22,17 @@
 
     <style name="JK.Animation.SlidingBack" parent="@android:style/Animation.Activity">
         <item name="android:activityOpenEnterAnimation">@anim/slide_in_right</item>
-        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_right</item>
         <item name="android:activityCloseEnterAnimation">@anim/slide_in_right</item>
-        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_right</item>
         <item name="android:wallpaperOpenEnterAnimation">@anim/slide_in_right</item>
-        <item name="android:wallpaperOpenExitAnimation">@null</item>
+        <item name="android:wallpaperOpenExitAnimation">@anim/slide_out_right</item>
         <item name="android:wallpaperCloseEnterAnimation">@anim/slide_in_right</item>
-        <item name="android:wallpaperCloseExitAnimation">@null</item>
+        <item name="android:wallpaperCloseExitAnimation">@anim/slide_out_right</item>
         <item name="android:wallpaperIntraOpenEnterAnimation">@anim/slide_in_right</item>
-        <item name="android:wallpaperIntraOpenExitAnimation">@null</item>
+        <item name="android:wallpaperIntraOpenExitAnimation">@anim/slide_out_right</item>
         <item name="android:wallpaperIntraCloseEnterAnimation">@anim/slide_in_right</item>
-        <item name="android:wallpaperIntraCloseExitAnimation">@null</item>
+        <item name="android:wallpaperIntraCloseExitAnimation">@anim/slide_out_right</item>
     </style>
 
 </resources>

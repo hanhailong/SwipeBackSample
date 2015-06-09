@@ -70,7 +70,6 @@ public abstract class BaseSwipeBackActivity extends AppCompatActivity implements
      */
     @Override
     public void setContentView(View v, ViewGroup.LayoutParams params) {
-//        super.setContentView(v, params);
         super.setContentView(mSlidingPaneLayout, params);
 
         mContainerFl.removeAllViews();
