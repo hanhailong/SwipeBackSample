@@ -8,7 +8,7 @@ import android.widget.RelativeLayout;
 
 import java.util.Random;
 
-public class NextActivity extends BaseSwipeBackActivity {
+public class NextActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
