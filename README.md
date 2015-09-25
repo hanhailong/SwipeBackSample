@@ -3,7 +3,7 @@
 
 **效果图如下**
 
-![image](https://github.com/hanhailong/SwipeBackSample/tree/master/screenshot/screenshot.gif)
+![image](https://github.com/hanhailong/SwipeBackSample/blob/master/screenshot/screenshot.gif?raw=true)
 
 ##2015-9-1 优化代码
 1.将BaseSwipeBackActivity基类名改成BaseActivity，改成通过isSupportSwipeBack方法来告知是否开启手势滑动返回
@@ -11,4 +11,4 @@
 
 **新版效果图如下**
 
-![image](https://github.com/hanhailong/SwipeBackSample/tree/master/screenshot/swipeback.gif)
+![image](https://github.com/hanhailong/SwipeBackSample/blob/master/screenshot/swipeback.gif?raw=true)
