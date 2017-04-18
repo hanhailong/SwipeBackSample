@@ -5,7 +5,7 @@
 
 ![image](https://github.com/hanhailong/SwipeBackSample/blob/master/screenshot/screenshot.gif?raw=true)
 
-##2015-9-1 优化代码
+## 2015-9-1 优化代码
 1.将BaseSwipeBackActivity基类名改成BaseActivity，改成通过isSupportSwipeBack方法来告知是否开启手势滑动返回
 2.解决ActionBar不随手势滚动的bug
 
